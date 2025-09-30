@@ -1,25 +1,41 @@
-# 🌟 Meu Portfólio
+📌 Portfólio – Jhuan Gabriel
 
-Bem-vindo ao repositório do meu portfólio pessoal!  
-Aqui apresento meus projetos, habilidades e formas de contato. 🚀  
+Este é meu portfólio pessoal, desenvolvido utilizando HTML5, CSS3 e JavaScript.
+O site foi construído de forma responsiva, permitindo uma boa experiência tanto em dispositivos móveis quanto em desktops.
 
----
+🚀 Tecnologias Utilizadas
 
-## 📸 Preview
-![Screenshot do Portfólio](./screenshot.png)  
-<img width="1358" height="2398" alt="LayoutCompletoSite" src="https://github.com/user-attachments/assets/156cdd1e-fb8e-4a6f-a0d8-7134e756ec9b" />
+HTML5 – Estrutura do site
 
+CSS3 – Estilização e responsividade
 
----
+JavaScript – Funcionalidades interativas (menu, validação de formulário, etc.)
 
-## 🔗 Acesse Online
-👉 [Clique aqui para ver o portfólio](https://JhuanGabrielDev.github.io/Projeto-2/)  
+🎨 Funcionalidades
 
----
+✅ Menu de navegação responsivo (desktop e mobile)
 
-## 🛠️ Tecnologias Utilizadas
-- **HTML5**  
-- **CSS3**  
-- **JavaScript**  
+✅ Seção Sobre mim com habilidades e conhecimentos
+
+✅ Listagem dinâmica de projetos
+
+✅ Formulário de contato validado com JavaScript
+
+✅ Integração com Google Maps
+
+✅ Rodapé com links para redes sociais
+
+⚙️ Como Executar o Projeto:
+Abra o arquivo index.html diretamente no navegador ou utilize a extensão Live Server no VS Code.
+
+📱 Responsividade
+
+O layout foi projetado para se adaptar automaticamente a:
+
+Dispositivos móveis 📱
+
+Tablets 📲
+
+Computadores 💻
 
 
