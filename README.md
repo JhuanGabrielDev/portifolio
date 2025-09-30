@@ -7,12 +7,13 @@ Aqui apresento meus projetos, habilidades e formas de contato. 🚀
 
 ## 📸 Preview
 ![Screenshot do Portfólio](./screenshot.png)  
-*(adicione aqui uma imagem do seu portfólio ou um link online)*
+<img width="1358" height="2398" alt="LayoutCompletoSite" src="https://github.com/user-attachments/assets/156cdd1e-fb8e-4a6f-a0d8-7134e756ec9b" />
+
 
 ---
 
 ## 🔗 Acesse Online
-👉 [Clique aqui para ver o portfólio](https://seu-usuario.github.io/seu-repo/)  
+👉 [Clique aqui para ver o portfólio](https://JhuanGabrielDev.github.io/Projeto-Portifolio/)  
 
 ---
 
@@ -22,6 +23,3 @@ Aqui apresento meus projetos, habilidades e formas de contato. 🚀
 - **JavaScript**  
 - (adicione **React**, **Node.js** ou outros se estiver usando)
 
----
-
-## 📂 Estrutura do Projeto
