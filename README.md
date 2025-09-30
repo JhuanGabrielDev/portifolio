@@ -13,7 +13,7 @@ Aqui apresento meus projetos, habilidades e formas de contato. 🚀
 ---
 
 ## 🔗 Acesse Online
-👉 [Clique aqui para ver o portfólio](https://JhuanGabrielDev.github.io/Projeto-Portifolio/)  
+👉 [Clique aqui para ver o portfólio](https://JhuanGabrielDev.github.io/Projeto-2/)  
 
 ---
 
@@ -21,5 +21,5 @@ Aqui apresento meus projetos, habilidades e formas de contato. 🚀
 - **HTML5**  
 - **CSS3**  
 - **JavaScript**  
-- (adicione **React**, **Node.js** ou outros se estiver usando)
+
 
